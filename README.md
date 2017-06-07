@@ -1,2 +1,2 @@
-# Baseline-JPEG-compression
+# Projects
 Several projects
