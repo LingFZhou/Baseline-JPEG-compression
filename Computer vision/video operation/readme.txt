@@ -1,0 +1,1 @@
+This program is about some simple operations of a color video. The naruto.avi is the input video, the out.avi is the output video.
