@@ -1,0 +1,66 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Library - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP70D.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Library.pdb" /debug /machine:I386 /out:"Debug/Library.exe" /pdbtype:sept 
+.\Debug\ADDCARD.obj
+.\Debug\Book.obj
+.\Debug\BookBorrow.obj
+.\Debug\BookReturn.obj
+.\Debug\Borrower.obj
+.\Debug\CardInfo.obj
+.\Debug\DELETECARD.obj
+.\Debug\GetBookMany.obj
+.\Debug\GetBookSingle.obj
+.\Debug\Library.obj
+.\Debug\LibraryDoc.obj
+.\Debug\LibraryView.obj
+.\Debug\LogIn.obj
+.\Debug\MainFrm.obj
+.\Debug\Manager.obj
+.\Debug\Record.obj
+.\Debug\SelectBook.obj
+.\Debug\StdAfx.obj
+.\Debug\Library.res
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP70D.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP7D9.tmp" with contents
+[
+/nologo /o"Debug/Library.bsc" 
+.\Debug\StdAfx.sbr
+.\Debug\ADDCARD.sbr
+.\Debug\Book.sbr
+.\Debug\BookBorrow.sbr
+.\Debug\BookReturn.sbr
+.\Debug\Borrower.sbr
+.\Debug\CardInfo.sbr
+.\Debug\DELETECARD.sbr
+.\Debug\GetBookMany.sbr
+.\Debug\GetBookSingle.sbr
+.\Debug\Library.sbr
+.\Debug\LibraryDoc.sbr
+.\Debug\LibraryView.sbr
+.\Debug\LogIn.sbr
+.\Debug\MainFrm.sbr
+.\Debug\Manager.sbr
+.\Debug\Record.sbr
+.\Debug\SelectBook.sbr]
+Creating command line "bscmake.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP7D9.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Library.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
